@@ -68,7 +68,7 @@
 </a>
 
 # Don't forget to keep leveling up!!!
-<img align="left" width="320px" height="300px" src="https://user-images.githubusercontent.com/28002518/112770951-a159ae00-9029-11eb-84f3-dfd7f02b7fd5.gif">
+<img align="left" width="340px" height="300px" src="https://user-images.githubusercontent.com/28002518/112770951-a159ae00-9029-11eb-84f3-dfd7f02b7fd5.gif">
 <img align="right" width="391px" height="300px" src="https://user-images.githubusercontent.com/28002518/112771190-f4803080-902a-11eb-8074-9cb29c38735e.gif">
 
 

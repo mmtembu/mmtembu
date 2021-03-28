@@ -81,7 +81,7 @@ Here are some ideas to get you started:
 
 # Don't forget to keep leveling up!!!
 ![tumblr_pix1vdsOry1w6j24yo1_540](https://user-images.githubusercontent.com/28002518/112770951-a159ae00-9029-11eb-84f3-dfd7f02b7fd5.gif)
-![tenor](https://user-images.githubusercontent.com/28002518/112771190-f4803080-902a-11eb-8074-9cb29c38735e.gif)
+<img align="right" width="391px" height="300px" src="https://user-images.githubusercontent.com/28002518/112771190-f4803080-902a-11eb-8074-9cb29c38735e.gif">
 
 
 <a href="https://badges.pufler.dev">

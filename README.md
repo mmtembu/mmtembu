@@ -12,7 +12,7 @@
 - I'm into Star Wars <img src="http://emojis.slackmojis.com/emojis/images/1478224666/1324/darth_maul.gif" width="25px" height="25px"/>
 - Also like helping people ℹ️.
 - My persistance is of *Ahsoka Tano*. I usually don't give up that easily 😤.
-- I live by trial and error, until I get the solution to the problem 😎.
+- I live by trial and error, until I find the solution to the problem 😎.
 
 <!--
 **mmtembu/mmtembu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -78,6 +78,9 @@ Here are some ideas to get you started:
 
 ![SLACK](https://img.shields.io/badge/Slack-4A154B?style=flat&logo=slack&logoColor=white)
 ![DISCORD](https://img.shields.io/badge/Discord-7289DA?style=flat&logo=discord&logoColor=white)
+
+# Don't forget to keep leveling up!!!
+![tumblr_pix1vdsOry1w6j24yo1_540](https://user-images.githubusercontent.com/28002518/112770951-a159ae00-9029-11eb-84f3-dfd7f02b7fd5.gif)
 
 <a href="https://badges.pufler.dev">
     <img align="right" src="https://badges.pufler.dev/visits/mmtembu/mmtembu?color=yellow" alt="Visitors badge" />

@@ -13,34 +13,9 @@
 - Also like helping people ℹ️.
 - My persistance is of *Ahsoka Tano*. I usually don't give up that easily 😤.
 - I live by trial and error, until I find the solution to the problem 😎.
-
-<!--
-**mmtembu/mmtembu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
 - 🔭 I’m currently working on a program that allows people multiple clients (computers) to connect on the same server and battle it out in a virtual robot duel. 
    Coming soon towards the end of April 2021...
 - 🌱 I’m currently learning devOps.
-
-### Github Stats
-
-<a href="https://github.com/mmtembu/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=mmtembu&show_icons=true&include_all_commits=true&theme=dark&count_private=true" alt="Mangaliso's github stats" />
-</a>
-<br/>
-<br/>
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mmtembu&layout=compact&theme=dark&show_icons=true" />
-</a>
 
 ### My Stack 
 
@@ -78,6 +53,17 @@ Here are some ideas to get you started:
 
 ![SLACK](https://img.shields.io/badge/Slack-4A154B?style=flat&logo=slack&logoColor=white)
 ![DISCORD](https://img.shields.io/badge/Discord-7289DA?style=flat&logo=discord&logoColor=white)
+
+### Github Stats
+
+<a href="https://github.com/mmtembu/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=mmtembu&show_icons=true&include_all_commits=true&theme=dark&count_private=true" alt="Mangaliso's github stats" />
+</a>
+<br/>
+<br/>
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mmtembu&layout=compact&theme=dark&show_icons=true" />
+</a>
 
 # Don't forget to keep leveling up!!!
 ![tumblr_pix1vdsOry1w6j24yo1_540](https://user-images.githubusercontent.com/28002518/112770951-a159ae00-9029-11eb-84f3-dfd7f02b7fd5.gif)

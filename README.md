@@ -1,9 +1,19 @@
-## Hi there, I'm Mangaliso Mtembu 👋
+## Hello, I'm Mangaliso Mtembu<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
 [<img align="left" alt="mangaliso-mtembu-1933941ba | LinkedIn" width="22px" src="https://simpleicons.org/icons/linkedin.svg"/>][linkedin]
 
 [linkedin]: https://www.linkedin.com/in/mangaliso-mtembu-1933941ba
 <br/>
+
+<img align="right" src="https://media.giphy.com/media/Zd104phRfo0N0LHgRt/giphy.gif" width="450px" height="200px">
+
+- Software Engineering student at WeThinkCode_ 👨🏽‍🎓
+- I enjoy coding 🧑‍💻, playing video games 🎮, watching interesting series 📺.
+- I'm into Star Wars <img src="http://emojis.slackmojis.com/emojis/images/1478224666/1324/darth_maul.gif" width="25px" height="25px"/>
+- Also like helping people ℹ️.
+- My persistance is of *Ahsoka Tano*. I usually don't give up that easily 😤.
+- I live by trial and error, until I get the solution to the problem 😎.
+
 <!--
 **mmtembu/mmtembu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

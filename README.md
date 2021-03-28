@@ -72,7 +72,5 @@
 <img align="right" width="391px" height="300px" src="https://user-images.githubusercontent.com/28002518/112771190-f4803080-902a-11eb-8074-9cb29c38735e.gif">
 
 <a href="https://badges.pufler.dev">
-   <br/>
-   <br/>
     <img align="right" src="https://badges.pufler.dev/visits/mmtembu/mmtembu?color=yellow" alt="Visitors badge" />
  </a>

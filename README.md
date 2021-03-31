@@ -1,4 +1,5 @@
 
+
 ## Hello, I'm Mangaliso Mtembu<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
 [<img align="left" alt="mangaliso-mtembu-1933941ba | LinkedIn" width="22px" src="https://user-images.githubusercontent.com/28002518/112771684-4d50c880-902d-11eb-986f-5e2673239a3d.png"/>][linkedin]
@@ -10,7 +11,7 @@
 
 - Software Engineering student at WeThinkCode_ 👨🏽‍🎓
 - I enjoy coding 🧑‍💻, playing video games 🎮, watching interesting series 📺.
-- I'm into Star Wars <img src="http://emojis.slackmojis.com/emojis/images/1478224666/1324/darth_maul.gif" width="25px" height="25px"/>
+- I'm into Star Wars <img src="http://emojis.slackmojis.com/emojis/images/1478224666/1324/darth_maul.gif" width="25px" height="25px"/> <img width="22px" height="22px" src="https://user-images.githubusercontent.com/28002518/113085467-28508700-91e0-11eb-9a81-d03631ac9322.png"/> <img width="25px" height="25px" src="https://user-images.githubusercontent.com/28002518/113085645-841b1000-91e0-11eb-9fbd-3caa5513f9a2.png"/>
 - Also like helping people ℹ️.
 - My persistance is of *Ahsoka Tano*. I usually don't give up that easily 😤.
 - I live by trial and error, until I find the solution to the problem 😎.
@@ -18,7 +19,7 @@
    Coming soon towards the end of April 2021...
 - 🌱 I’m currently learning devOps.
 
-### My Stack 
+### My Stack <img width="30px" height="30px" src="https://user-images.githubusercontent.com/28002518/113085841-df4d0280-91e0-11eb-84ce-81bdf0270769.png"/>
 
 #### Languages
 

@@ -53,7 +53,7 @@
 
 ![Miro](https://img.shields.io/badge/-Miro-FFD02F?style=flat&logo=miro&logoColor=white)
 
-### Communication
+### <img width="30px" height="30px" src="https://user-images.githubusercontent.com/28002518/113087475-f6d9ba80-91e3-11eb-9a6a-56ce367c8430.png"/>Communication
 
 ![SLACK](https://img.shields.io/badge/Slack-4A154B?style=flat&logo=slack&logoColor=white)
 ![DISCORD](https://img.shields.io/badge/Discord-7289DA?style=flat&logo=discord&logoColor=white)

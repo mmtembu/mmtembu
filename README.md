@@ -19,7 +19,8 @@
    Coming soon towards the end of April 2021...
 - 🌱 I’m currently learning devOps.
 
-### My Stack <img width="30px" height="30px" src="https://user-images.githubusercontent.com/28002518/113085841-df4d0280-91e0-11eb-84ce-81bdf0270769.png"/>
+
+### [<img width="30px" height="30px" src="https://user-images.githubusercontent.com/28002518/113085841-df4d0280-91e0-11eb-84ce-81bdf0270769.png"/>]My Stack
 
 #### Languages
 

@@ -29,6 +29,7 @@
 ![C++](https://img.shields.io/badge/-C++-black?logo=c%2B%2B&style=flat)
 ![JAVA](https://img.shields.io/badge/-JAVA-black?logo=java&style=flat&color=red&logoColor=yellow)
 ![PHP](https://img.shields.io/badge/-PHP-black?logo=php&style=flat&color=white&logoColor=purple)
+![C#](https://img.shields.io/badge/C%23-239120?style=flat&logo=c-sharp&logoColor=white&color=purple)
 
 #### Application and Data
 

@@ -3,7 +3,6 @@
 ## Hello, I'm Mangaliso Mtembu<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
 [<img align="left" alt="mangaliso-mtembu-1933941ba | LinkedIn" width="22px" src="https://user-images.githubusercontent.com/28002518/112771684-4d50c880-902d-11eb-986f-5e2673239a3d.png"/>][linkedin]
-
 [linkedin]: https://www.linkedin.com/in/mangaliso-mtembu-1933941ba
 <br/>
 

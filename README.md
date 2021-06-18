@@ -15,7 +15,7 @@
 - Also like helping people ℹ️.
 - My persistance is of *Ahsoka Tano*. I usually don't give up that easily 😤.
 - I live by trial and error, until I find the solution to the problem 😎.
-- 🔭 I’m currently working on a program that allows people multiple computers to connect on the same server and battle it out in a virtual robot duel. Coming soon towards the end of May 2021...
+- 🔭 I’m currently working on a Personal Project Management Tool.
 - 🌱 I’m currently learning devOps.
  
 

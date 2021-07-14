@@ -64,7 +64,7 @@
 ![GitHub](https://img.shields.io/badge/-Github-181717?style=flat&logo=github&logoColor=white)
 ![BitBucket](https://img.shields.io/badge/bitbucket%20-%230047B3.svg?&style=flat&logo=bitbucket&logoColor=white)
 
-#### Agile
+#### Agile Tools
 
 ![Miro](https://img.shields.io/badge/-Miro-FFD02F?style=flat&logo=miro&logoColor=white)
 

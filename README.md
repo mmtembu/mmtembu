@@ -39,25 +39,30 @@
 
 #### Specifics & Frameworks
 
-![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white)
-![Styled-Components](https://img.shields.io/badge/styled--components-DB2020?style=for-the-badge&logo=styled-components&logoColor=white)
-![Material-UI](https://img.shields.io/badge/Material--UI-0081CB?style=for-the-badge&logo=material-ui&logoColor=white)
-![Node-JS](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
+![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=flat&logo=spring&logoColor=white)
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=flat&logo=react&logoColor=%2361DAFB)
+![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=flat&logo=SASS&logoColor=white)
+![Styled-Components](https://img.shields.io/badge/styled--components-DB2020?style=flat&logo=styled-components&logoColor=white)
+![Material-UI](https://img.shields.io/badge/Material--UI-0081CB?style=flat&logo=material-ui&logoColor=white)
+![Node-JS](https://img.shields.io/badge/Node.js-43853D?style=flat&logo=node.js&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=flat&logo=bootstrap&logoColor=white)
 
 #### Utilities
 
 ![VSCode](https://img.shields.io/badge/-VSCode-007ACC?style=flat&logo=visual-studio-code&logoColor=white)
 ![Visual Studio](https://img.shields.io/badge/-Visual%20Studio-5C2D91?style=flat&logo=visual-studio&logoColor=white)
 ![Android Studio](https://img.shields.io/badge/-Android%20Studio-3DDC84?style=flat&logo=android-studio&logoColor=white)
+![POSTMAN](https://img.shields.io/badge/Postman-FF9C37?style=flat&logo=postman&logoColor=red)
+![Vim](https://img.shields.io/badge/VIM-%2311AB00.svg?style=flat&logo=vim&logoColor=white)
+![Sublime-Text](https://img.shields.io/badge/sublime_text-%23575757.svg?style=flat&logo=sublime-text&logoColor=important)
+![Atom](https://img.shields.io/badge/Atom-%2366595C.svg?style=flat&logo=atom&logoColor=white)
 
-#### DevOps
+#### Version Control
 
 
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/-Github-181717?style=flat&logo=github&logoColor=white)
+![BitBucket](https://img.shields.io/badge/bitbucket%20-%230047B3.svg?&style=flat&logo=bitbucket&logoColor=white)
 
 #### Agile
 

@@ -16,7 +16,7 @@
 - My persistance is of *Ahsoka Tano*. I usually don't give up that easily 😤.
 - I live by trial and error, until I find the solution to the problem 😎.
 - 🔭 I’m currently working on a Personal Project Management Tool.
-- 🌱 I’m currently learning devOps.
+- 🌱 I’m currently learning React.
  
 
 ### <img width="30px" height="30px" src="https://user-images.githubusercontent.com/28002518/113085841-df4d0280-91e0-11eb-84ce-81bdf0270769.png"/> My Stack

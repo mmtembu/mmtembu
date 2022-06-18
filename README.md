@@ -1,22 +1,24 @@
 
 
-## Hello, I'm Mangaliso Mtembu<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
+## Hello, I'm Mangaliso Mtembu<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px" height="30px">
 
 [<img align="left" alt="mangaliso-mtembu-1933941ba | LinkedIn" width="22px" src="https://user-images.githubusercontent.com/28002518/112771684-4d50c880-902d-11eb-986f-5e2673239a3d.png"/>][linkedin]
 
+[<img align="left" alt="TokzicNinja | Twitter" width="22px" src="https://user-images.githubusercontent.com/18496796/107147301-8e8dfb80-694d-11eb-9fc6-f935c1754cd9.png"/>][twitter]
+
 [linkedin]: https://www.linkedin.com/in/mangaliso-mtembu-1933941ba
+[twitter]: https://twitter.com/TokzicNinja
 <br/>
 
 <img align="right" src="https://media.giphy.com/media/Zd104phRfo0N0LHgRt/giphy.gif" width="450px" height="200px">
 
-- Software Engineering student at WeThinkCode_ 👨🏽‍🎓
-- I enjoy coding 🧑‍💻, playing video games 🎮, watching interesting series 📺.
+- Software Engineer
+- I enjoy coding 🧑‍💻, listening to music 🎧, playing video games 🎮, watching interesting series 📺.
 - I'm into Star Wars <img src="http://emojis.slackmojis.com/emojis/images/1478224666/1324/darth_maul.gif" width="25px" height="25px"/> <img width="22px" height="22px" src="https://user-images.githubusercontent.com/28002518/113085467-28508700-91e0-11eb-9a81-d03631ac9322.png"/> <img width="25px" height="25px" src="https://user-images.githubusercontent.com/28002518/113085645-841b1000-91e0-11eb-9fbd-3caa5513f9a2.png"/>
 - Also like helping people ℹ️.
 - My persistance is of *Ahsoka Tano*. I usually don't give up that easily 😤.
 - I live by trial and error, until I find the solution to the problem 😎.
-- 🔭 I’m currently working on a Personal Project Management Tool.
-- 🌱 I’m currently learning React.
+- 🌱 I’m currently learning Blockchain & DevOps.
  
 
 ### <img width="30px" height="30px" src="https://user-images.githubusercontent.com/28002518/113085841-df4d0280-91e0-11eb-84ce-81bdf0270769.png"/> My Stack
